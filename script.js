@@ -29,6 +29,7 @@ async function datos(raw) {
     }
 }
 
-datos("https://raw.githubusercontent.com/javy3003/decima-clase/refs/heads/main/datos.json");
+datos("https://javy3003.github.io/decima-clase/datos.json");
+
 
 
